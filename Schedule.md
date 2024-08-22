@@ -9,13 +9,13 @@ layout: page
 
 ***
 
-* Aug. 29
-    * Lecture: [The forecasting workflow]({{ site.baseurl }}/lectures/forecasting-workflow-day1.R)
+* Aug. 27
+    * Lecture: [Introduction to Computational Biology]({{ site.baseurl }}/slides/forecasting-workflow-day1.R)
     * *Lab:* Set up `R`, [Intro to R assignment]({{ site.baseurl }}/assignments/intro2R)  
     
 ***   
 
-* Aug. 31
+* Aug. 29
     * Discussion: Why dynamics and forecasting? 
         * Reading: [Clark et al. 2001](https://doi.org/10.1126/science.293.5530.657)
             * [Discussion questions]({{ site.baseurl }}/discussion/clark_etal_2001)
