@@ -10,9 +10,10 @@ layout: page
 ***
 
 * Aug. 27
-    * Lecture: [Introduction to Computational Biology]({{ site.baseurl }}/slides/forecasting-workflow-day1.R)
-    * *Lab:* Set up `R`, [Intro to R assignment]({{ site.baseurl }}/assignments/intro2R)  
-    
+    * Lecture: [Introduction to Computational Biology]({{ site.baseurl }}/slides/slide1)
+    * *Lab:* Set up `R`, [Intro to R, operators, variable assignment, and vectors]({{ site.baseurl }}/assignments/intro2.R)
+    * Pre-lab quiz (Can I hyperlink these)
+    * In-class quiz (same)
 ***   
 
 * Aug. 29
