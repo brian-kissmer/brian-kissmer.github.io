@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[Computational Approaches to Biology](https://github.com/brian-kissmer/brian-kissmer.github.io)
-
 Important links:
 
 * The course’s [Github repository](https://github.com/brian-kissmer/brian-kissmer.github.io)
