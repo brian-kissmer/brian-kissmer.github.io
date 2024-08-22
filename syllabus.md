@@ -1,5 +1,5 @@
 ---
-title: "Computational Approaches to Biology (BIOL 3070) - Fall 2023"
+title: "Syllabus"
 author: "Brian Kissmer"
 output: 
   html_document:
