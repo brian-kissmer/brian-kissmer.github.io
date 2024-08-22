@@ -16,7 +16,7 @@ LSB 231, Tues. & Thurs., 1:30–2:45 pm
 [Github](https://brian-kissmer.github.io/)
 
 **Instructor:**  
-Dr. Zach Gompert
+Brian Kissmer
 
 **Email:**  
 [brian.kissmer@usu.edu](mailto:brian.kissmer@usu.edu)
