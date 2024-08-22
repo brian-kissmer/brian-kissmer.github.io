@@ -13,7 +13,7 @@ output:
 LSB 231, Tues. & Thurs., 1:30–2:45 pm
 
 **Website:**  
-[Github](https://brian-kissmer.github.io/), [Canvas](https://brian-kissmer.github.io/)
+[Github](https://brian-kissmer.github.io/), [Canvas](https://usu.instructure.com/)
 
 **Instructor:**  
 Brian Kissmer
