@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Computational Approaches to Biology
+email: brian.kissmer@usu.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Brian Kissmer's course taught at Utah State University in Fall 2024.
+url: "https://brian-kissmer.github.io/" # the base hostname & protocol for your site
+github_username:  brian-kissmer
+
+# Build settings
+markdown: kramdown
+
+theme: jekyll-theme-minimal
