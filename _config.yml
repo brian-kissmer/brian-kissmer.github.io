@@ -18,4 +18,4 @@ markdown: kramdown
 
 theme: jekyll-theme-minimal
 
-include: about.md
+include: 'about.md'
