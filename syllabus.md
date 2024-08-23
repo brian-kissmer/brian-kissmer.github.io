@@ -22,7 +22,7 @@ Brian Kissmer
 [brian.kissmer@usu.edu](mailto:brian.kissmer@usu.edu)
 
 **Office:**  
-LSB 343
+TBD
 
 **Office Hours:**  
 Mon. 12:30-3:30 pm
