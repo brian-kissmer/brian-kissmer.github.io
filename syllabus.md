@@ -133,7 +133,7 @@ Programming concepts will also be introduced each week. See the course home page
 - The schedule of topics, assignments, and all other details in this syllabus are subject to change with fair warning.
 - USU welcomes students with disabilities. If you have, or suspect you may have, a physical, mental health, or learning disability that may require accommodations in this course, please contact the Disability Resource Center (DRC) as early in the semester as possible (University Inn #101, 435-797-2444, drc@usu.edu). All disability-related accommodations must be approved by the DRC. Once approved, the DRC will coordinate with faculty to provide accommodations.
 - Policies protecting free speech at USU
-  -USU Student Code: “Students can reasonably expect the following: the right, subject
+  - USU Student Code: “Students can reasonably expect the following: the right, subject
 to time, place, and manner restrictions, to express personal opinions on campus, to
 support or oppose causes, to arrange public assemblies, and to hold rallies, demon-
 strations, and pickets, which do not materially and substantially interfere with normal
@@ -142,7 +142,7 @@ be used as a censorship device. Any institutional regulation regarding time, pla
 4and manner of expression must be content-neutral, must be narrowly tailored to serve
 a significant University interest, and must leave open ample alternative channels of
 communication.” (Student Code Section II-2, D)
-  -Utah System of Higher Education: “All members of the institutional community shall
+  - Utah System of Higher Education: “All members of the institutional community shall
 be protected from censorship in their exercise of freedom of speech and assembly and,
 at the same time, protected from interference with a speaker’s presentation of his ideas
 through acts of disruption. In addition to protection of their own freedom of speech,
