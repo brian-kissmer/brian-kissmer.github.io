@@ -51,7 +51,8 @@ These course-specific learning objectives align with the following IDEA learning
 
 **Course fees:** The fee for this course is $150. This covers part of the cost of a laptop computer.
 
-- **Canvas:** Use the course Canvas site to receive announcements, download class materials, submit assignments, take quizzes and exams, and view grades. Make sure you receive daily notifications for announcements.
+- **Canvas:** Use the course Canvas site to receive announcements, submit assignments, take quizzes and exams, and view grades. Make sure you receive daily notifications for announcements.
+- **Course Website:** Use the course website to download course material and to access the schedule and syllabus. 
 - **Textbook:** A textbook is not required for this course. Good programming references for R can be found online. Nonetheless, I recommend gaining access to the following book:
   - R. Cotton. 2013. *Learning R: A Step-by-Step Function Guide to Data Analysis*. 1st edition. O’Reilly Media.
 - **Laptop computer:** A computer capable of running R is required for this course. Such a computer will be provided for you to use for the semester (your course fees cover part of the computer cost). You may use your own computer if you prefer, but you are responsible for ensuring the required software is installed and runs properly. If you check out a class laptop, you are required to return it before the end of the course. Failure to do so will result in an incomplete for the class until the computer is returned.
@@ -62,7 +63,7 @@ Computational biology is a hands-on class. Most weeks will include some lecture 
 
 # Meeting Course Objectives: Assignments & Assessment
 
-Three types of graded assignments will be used to evaluate student performance in the context of the course objectives: coding quizzes, programming projects, and exams. Brief descriptions of each assignment type follow. See Canvas for more information. Due dates for all assignments can be found on Canvas. Unless arrangements are made with me, late work will not be accepted. In other words, contact me in a timely manner if you have a planned, excused absence or fall ill so that we can work out a plan for late work.
+Three types of graded assignments will be used to evaluate student performance in the context of the course objectives: coding quizzes, programming projects, and exams. Brief descriptions of each assignment type follow. See our website for more information. Due dates for all assignments can be found on Canvas. Unless arrangements are made with me, late work will not be accepted. In other words, contact me in a timely manner if you have a planned, excused absence or fall ill so that we can work out a plan for late work.
 
 ### Coding and Pre-Lab Quizzes (10%)
 
@@ -72,9 +73,9 @@ Pre-Lab quizzes will be due before every lecture. These are very simple, easy qu
 
 ### Programming Projects (50%)
 
-Hands-on experience is essential to mastering computational biology. Thus, a key focus of this course will be regular programming projects, 6 total. This will involve applying coding skills we have covered to problems in the biological sciences. Each project will culminate in:
-1. Annotated computer code or
-2. A write-up/interpretation along with embedded computer code and visualizations or
+Hands-on experience is essential to mastering computational biology. Thus, a key focus of this course will be regular programming projects, 5-7 total. This will involve applying coding skills we have covered to problems in the biological sciences. Each project will culminate in some or all of the following:
+1. Annotated computer code
+2. A write-up/interpretation along with embedded computer code and visualizations
 3. A group presentation on a method and its results.
 
 ### Midterm Exam (18%) and Final Exam (22%)
@@ -110,7 +111,7 @@ Large language models (a component of some generative AI), such as ChatGPT, can 
 
 ### Use of LLMs and Generative AI on Programming Projects
 
-You are permitted to use ChatGPT and other AI tools to assist you in these projects. However, you are expected to include a disclosure statement at the end of your assignment describing which AI tool you used and how you used it. For example, “ChatGPT was used to draft about 50 percent of the code and text in this assignment. AI-produced content was edited for accuracy and style.”
+You are permitted to use ChatGPT and other AI tools to assist you in these projects. However, you are expected to include a disclosure statement at the end of your assignment describing which AI tool you used and how you used it. For example, “ChatGPT was used to draft about 50 percent of the code and text in this assignment.”
 
 ### Use of LLMs and Generative AI on Quizzes and Exams
 
