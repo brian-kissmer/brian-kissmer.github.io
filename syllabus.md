@@ -64,15 +64,18 @@ Computational biology is a hands-on class. Most weeks will include some lecture 
 
 Three types of graded assignments will be used to evaluate student performance in the context of the course objectives: coding quizzes, programming projects, and exams. Brief descriptions of each assignment type follow. See Canvas for more information. Due dates for all assignments can be found on Canvas. Unless arrangements are made with me, late work will not be accepted. In other words, contact me in a timely manner if you have a planned, excused absence or fall ill so that we can work out a plan for late work.
 
-### Coding Quizzes (10%)
+### Coding and Pre-Lab Quizzes (10%)
 
 Short (3-5 questions) coding quizzes will be given once every few weeks to assess programming skills (7 total). You will take these quizzes via Canvas. Most weeks, the coding quiz will be available starting Monday and will close Friday at 11:59 pm. You will be able to take the quiz at any time during that time interval. You will be allowed to take each quiz a total of 3 times and only your highest score will be retained.
+
+Pre-Lab quizzes will be due before every lecture. These are very simple, easy quizzes that will be designed to help you understand the main goals and methods for each class. They are due 30 minutes before the start of lecture with no make-ups. The lowest pre-lab quiz will be dropped.
 
 ### Programming Projects (50%)
 
 Hands-on experience is essential to mastering computational biology. Thus, a key focus of this course will be regular programming projects, 6 total. This will involve applying coding skills we have covered to problems in the biological sciences. Each project will culminate in:
 1. Annotated computer code or
-2. A write-up/interpretation along with embedded computer code and visualizations.
+2. A write-up/interpretation along with embedded computer code and visualizations or
+3. A group presentation on a method and its results.
 
 ### Midterm Exam (18%) and Final Exam (22%)
 
@@ -96,7 +99,7 @@ Two exams will be given, a midterm and a final exam. These will cover programmin
 
 **Breakdown:**
 
-- Coding quizzes: 10%
+- Quizzes: 10%
 - Programming projects: 50%
 - Midterm exam: 18%
 - Final exam: 22%
@@ -111,7 +114,7 @@ You are permitted to use ChatGPT and other AI tools to assist you in these proje
 
 ### Use of LLMs and Generative AI on Quizzes and Exams
 
-ChatGPT and similar Artificial Intelligence tools, though useful in many contexts, are inappropriate for use when taking quizzes and exams in this course. An important outcome of this course is to strengthen your own abilities as a thinker and programmer. You need to know when AI produces code that does versus doesn’t do what you want, and you need to understand coding concepts on your own. For me to assess your abilities to do these things, it is important for you to take quizzes and exams without the use of AI. Thus, you may not use AI when taking quizzes or exams. If your submission appears to have been written using AI, you may either receive a failing grade or be asked to resubmit. Using AI to study for quizzes and exams is absolutely fine.
+ChatGPT and similar Artificial Intelligence tools, though useful in many contexts, are inappropriate for use when taking quizzes and exams in this course. An important outcome of this course is to strengthen your own abilities as a thinker and programmer. You need to know when AI produces code that does versus doesn’t do what you want, and you need to understand coding concepts on your own. For me to assess your abilities to do these things, it is important for you to take quizzes and exams without the use of AI. Thus, you may not use AI when taking quizzes or exams. If your submission appears to have been written using AI, you may either receive a failing grade or be asked to resubmit. Using AI to study for quizzes and exams is absolutely fine and encouraged.
 
 # Schedule of Topics
 
@@ -119,13 +122,14 @@ This course provides a survey and introduction to various applications within co
 
 - **Weeks 1–2:** Introduction to computational biology
 - **Weeks 3–7:** Mathematical models and simulations
-- **Weeks 8–12:** Computational statistics and genomics
+- **Weeks 8–12:** Computational statistics, algorithms, and genomics
 - **Weeks 13–15:** Bioinformatics and machine learning
 
 Programming concepts will also be introduced each week. See the course home page on Canvas for the schedule of topics, along with links to required readings, due dates for assignments, and other course resources (e.g., slides/notes).
 
 # Additional Items
 
+- This classroom is a safe and welcoming environment for individuals of all backgrounds, identities, and experiences. We value and respect diversity in all its forms, including but not limited to race, ethnicity, gender identity, sexual orientation, religion, age, ability, and socio-economic background. Discrimination, harassment, or exclusion of any kind will not be tolerated. Our goal is to foster a supportive community where everyone can learn, grow, and succeed together.
 - The schedule of topics, assignments, and all other details in this syllabus are subject to change with fair warning.
 - USU welcomes students with disabilities. If you have, or suspect you may have, a physical, mental health, or learning disability that may require accommodations in this course, please contact the Disability Resource Center (DRC) as early in the semester as possible (University Inn #101, 435-797-2444, drc@usu.edu). All disability-related accommodations must be approved by the DRC. Once approved, the DRC will coordinate with faculty to provide accommodations.
 - Policies protecting free speech at USU
