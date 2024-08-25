@@ -19,8 +19,6 @@ dependencies:
   - r-splitstackshape
   - r-recipes
   - r-roll
-  - bioconductor-IRanges
-  - bioconductor-biostrings
   - r-ranger
   - r-randomForest
   - r-xgboost
@@ -46,7 +44,6 @@ dependencies:
   - r-vegan
   - r-corrplot
   - r-doParallel
-  - r-multicore
   - r-future.apply
   - r-MASS
   - r-knitr
