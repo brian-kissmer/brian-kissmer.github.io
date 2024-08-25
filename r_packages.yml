@@ -1,7 +1,6 @@
-name: biol3070
+name: r_course_environment
 channels:
   - conda-forge
-  - bioconda
   - defaults
 dependencies:
   - r-essentials
@@ -23,26 +22,16 @@ dependencies:
   - r-recipes
   - r-roll
   - r-SlidingWindow
-  - r-IRanges
-  - r-data.table
-  - r-parallel
-  - r-foreach
-  - r-future
-  - r-microbenchmark
-  - r-biocmanager
-  - r-biobase
-  - r-R.utils
-  - r-biocgenerics
-  - r-devtools
-  - r-genomicranges
-  - r-ape
-  - r-s4vectors
-  - r-edger
-  - r-deseq2
-  - r-limma
-  - r-complexheatmap
-  - r-genomicfeatures
-  - r-biostrings
+  - bioconductor-IRanges
+  - bioconductor-genomicranges
+  - bioconductor-ape
+  - bioconductor-s4vectors
+  - bioconductor-edger
+  - bioconductor-deseq2
+  - bioconductor-limma
+  - bioconductor-complexheatmap
+  - bioconductor-genomicfeatures
+  - bioconductor-biostrings
   - r-ranger
   - r-randomForest
   - r-xgboost
