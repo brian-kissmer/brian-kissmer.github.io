@@ -1,4 +1,4 @@
-name: r_course_environment
+name: biol3070
 channels:
   - conda-forge
   - bioconda
