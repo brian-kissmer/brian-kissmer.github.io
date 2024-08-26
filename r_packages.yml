@@ -5,6 +5,7 @@ channels:
 dependencies:
   - r-essentials
   - r-dplyr
+  - r-swirl
   - r-ggplot2
   - r-readr
   - r-tidyr
