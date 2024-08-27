@@ -17,14 +17,14 @@ layout: page
 ***   
 
 * Aug. 29 
-    * Lecture:  [Intro to R, operators, variable assignment, and vectors]({{ site.baseurl }}/assignments/intro2.R) 
-    * Lab: [Initial R exercises]({{ site.baseurl }}/assignments/intro2.R) 
+    * Lecture:  [Intro to R, operators, variable assignment, and vectors]({{ site.baseurl }}/assignments/Made you look) 
+    * Lab: [Initial R exercises]({{ site.baseurl }}/assignments/In progress) 
     
 *** 
 
 **Week 2: Random Numbers and Probability Distributions**
   * Sept. 03
-      * [Pre-Lab Quiz]()
+      * [Pre-Lab Quiz](Working on it)
   * Sept. 05
 
 ***
