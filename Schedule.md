@@ -12,11 +12,10 @@ layout: page
 **Week 1: Introduction to Computational Biology**
 * Aug. 27
     * Lecture: [Introduction to Computational Biology]({{ site.baseurl }}/slides/slide1)
-    * In-class quiz (same)
+    * In-class discussion: [Prior knowledge of computational biology](https://usu.instructure.com/courses/762928/discussion_topics/3043775)
 ***   
 
-* Aug. 29
-    * Pre-lab Quiz (hyperlink) 
+* Aug. 29 
     * Lecture:  [Intro to R, operators, variable assignment, and vectors]({{ site.baseurl }}/assignments/intro2.R) 
     * Lab: [Initial R exercises]({{ site.baseurl }}/assignments/intro2.R) 
     
@@ -24,6 +23,7 @@ layout: page
 
 **Week 2: Random Numbers and Probability Distributions**
   * Sept. 03
+      * [Pre-Lab Quiz]()
   * Sept. 05
 
 ***
