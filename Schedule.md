@@ -11,7 +11,7 @@ layout: page
 
 **Week 1: Introduction to Computational Biology**
 * Aug. 27
-    * Lecture: [Introduction to Computational Biology]({{ site.baseurl }}/slides/slide1)
+    * Lecture: [Introduction to Computational Biology]({{ site.baseurl }}/slides/Aug 27 slides.pdf)
     * In-class discussion: [Prior knowledge of computational biology](https://usu.instructure.com/courses/762928/discussion_topics/3043775)
 ***   
 
