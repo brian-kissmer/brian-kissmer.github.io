@@ -16,8 +16,9 @@ layout: page
       
 ***   
 
-* Aug. 29 
-    * Lecture:  [Intro to R, operators, variable assignment, and vectors]({{ site.baseurl }}/worksheets/Introduction_to_R.html) 
+* Aug. 29
+    * Lecture: [Introduction to R]({{ site.baseurl }}/slides/Aug 29 slides.pdf)
+    * Handout:  [Intro to R, operators, variable assignment, and vectors]({{ site.baseurl }}/worksheets/Introduction_to_R.html) 
     * Lab: [Initial R exercises](Add_quizizz_link_before_class)
     * Laptop poll: [Click here](https://strawpoll.com/e7ZJaaklKg3)
     
