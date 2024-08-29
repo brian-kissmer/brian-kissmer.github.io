@@ -17,8 +17,8 @@ layout: page
 ***   
 
 * Aug. 29 
-    * Lecture:  [Intro to R, operators, variable assignment, and vectors]({{ site.baseurl }}/assignments/Made you look) 
-    * Lab: [Initial R exercises]({{ site.baseurl }}/assignments/In progress) 
+    * Lecture:  [Intro to R, operators, variable assignment, and vectors]({{ site.baseurl }}/worksheets/Introduction_to_R.html) 
+    * Lab: [Initial R exercises](https://quizizz.com/join?gc=291665)
     
 *** 
 
