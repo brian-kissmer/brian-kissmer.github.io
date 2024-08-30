@@ -27,7 +27,7 @@ sudo apt-get install -f
 
 #Once R and RStudio are downloaded, open RStudio. It should now be found in your applications ideally. Once there, copy and paste the two commands into your console.
 #You'll notice we made a vector called 'packages' with the names of the packages we're installing. Then, we're using the install.packages() function to install them all.
-#The 'dependencies' is telling R to install these packages, as well as whatever else these packages need to run successfully. This is going to take a decent bit of time (~1hr), 
+#The 'dependencies' option is telling R to install these packages, as well as whatever else these packages need to run successfully. This is going to take a decent bit of time (~1hr), 
 #make sure your laptop is plugged in and that you don't need to take it anywhere for a bit. You'll need to be connected to wifi this entire time so that R can access the packages 
 #from its online database. Good luck!
 
