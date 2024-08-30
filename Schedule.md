@@ -21,7 +21,12 @@ layout: page
     * Handout:  [Intro to R, operators, variable assignment, and vectors]({{ site.baseurl }}/worksheets/Introduction_to_R.html) 
     * Lab: [Initial R exercises](Add_quizizz_link_before_class)
     * Laptop poll: [Click here](https://strawpoll.com/e7ZJaaklKg3)
-    
+*** 
+
+* Week 1 resources
+  * Quizizz link: [Now you can replay it whenever you'd like!](https://quizizz.com/join?gc=75478828)
+  * [How to set up R and its packages on your computer (not too hard)]({{ site.baseurl }}/Resources/r_env_setup.txt)
+
 *** 
 
 **Week 2: Random Numbers and Probability Distributions**
@@ -30,3 +35,6 @@ layout: page
   * Sept. 05
 
 ***
+
+* Week 2 Resources
+  * Office Hours: 12-3pm on WEDNESDAY, LSB 127A (Come here for help with setting up your laptop if you need it). 
