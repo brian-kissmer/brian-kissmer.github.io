@@ -1,3 +1,37 @@
+#Install R programming language, even if you already have it on your computer. This is to ensure you have the latest version so that the packages you are about to install work successfully. 
+#This will be slightly different if you have Windows, Mac, or Linux, so make sure you do the right one. For mac users, go to https://cran.r-project.org/bin/macosx/
+#and download the file titled "R-4.4.1-arm64.pkg" by clicking on it. Click on the downloaded file and follow the instructions to install.
+
+#For windows users, go to https://cran.r-project.org/bin/windows/base/ and download the installer by clicking on "Download R-4.4.1 for Windows". Same thing, click on the 
+#downloaded file and follow the instructions.
+
+#For linux folks things are a little easier. Open up the 'Terminal' app on your computer (which you should get used to using!), and copy and pase this command:
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E084DAB9
+sudo add-apt-repository 'deb https://cloud.r-project.org/bin/linux/ubuntu focal-cran40/'
+
+#It'll prompt you to enter your computer password ('sudo' is a command that requests user permission). Once that's done, paste in these commands:
+sudo apt update
+sudo apt install r-base
+
+
+#Once R is installed, you'll want to install RStudio. This is generally the same for Mac and Windows users. Go to https://posit.co/download/rstudio-desktop/ and find the dmg or exe file 
+#for your operating system. Download it and follow the steps just like you did for R. For linux users, do the same thing and check what folder it downloads to (should be Downloads).
+#From there, enter the following commands:
+
+cd ~/Downloads #(or whatever folder it gets downloaded to. Do not remove the ~/ symbols).
+
+sudo dpkg -i rstudio-*.deb
+sudo apt-get install -f
+
+#Once again you'll probably have to enter your password.
+
+#Once R and RStudio are downloaded, open RStudio. It should now be found in your applications ideally. Once there, copy and paste the two commands into your console.
+#You'll notice we made a vector called 'packages' with the names of the packages we're installing. Then, we're using the install.packages() function to install them all.
+#The 'dependencies' is telling R to install these packages, as well as whatever else these packages need to run successfully. This is going to take a decent bit of time (~1hr), 
+#make sure your laptop is plugged in and that you don't need to take it anywhere for a bit. You'll need to be connected to wifi this entire time so that R can access the packages 
+#from its online database. Good luck!
+
+
 
 packages <- c(
   "essentials", "dplyr", "swirl", "ggplot2", "readr", "tidyr",
