@@ -1,0 +1,15 @@
+
+packages <- c(
+  "essentials", "dplyr", "swirl", "ggplot2", "readr", "tidyr",
+  "purrr", "lubridate", "stringr", "forcats", "lattice", "rmarkdown",
+  "reshape2", "tidyselect", "splitstackshape", "recipes", "roll",
+  "ranger", "randomForest", "xgboost", "lightgbm", "glmnet", "caret",
+  "rstanarm", "brms", "keras", "tensorflow", "nnet", "naivebayes",
+  "abc", "mcmc", "rjags", "coda", "rstan", "HMM", "depmixS4",
+  "yardstick", "catboost", "optimx", "vegan", "corrplot", "doParallel",
+  "future.apply", "MASS", "knitr", "summarytools", "random", "simr",
+  "patchwork"
+)
+
+
+install.packages(packages, dependencies = TRUE)
