@@ -33,7 +33,7 @@ layout: page
 **Week 2: Random Numbers and Probability Distributions**
   * Sept. 03
       * [Pre-Lab Quiz](https://usu.instructure.com/courses/762928/quizzes/1274319/take)
-      * Lecture: [Probability, matrices, and the apply() function()]({{ site.baseurl }}/slides/Sept 3rd slides.pdf)
+      * Lecture: [Probability, matrices, and the apply() function]({{ site.baseurl }}/slides/Sept 3rd slides.pdf)
   * Sept. 05
 
 ***
