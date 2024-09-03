@@ -41,3 +41,4 @@ layout: page
 * Week 2 Resources
   * Office Hours: 12-3pm on WEDNESDAY, LSB 127A (Come here for help with setting up your laptop if you need it).
   * Improved description of PMF and CDF: [This will be useful for Thursday, hope this is a better explanation than my first one]({{ site.baseurl }}/worksheets/pmf_cdf.html)
+  * [Course laptop survey](https://forms.gle/putWYbETm48PYRgy9)
