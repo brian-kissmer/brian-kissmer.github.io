@@ -35,6 +35,7 @@ layout: page
       * [Pre-Lab Quiz](https://usu.instructure.com/courses/762928/quizzes/1274319/take)
       * Lecture: [Probability, matrices, and the apply() function]({{ site.baseurl }}/slides/Sept 3 slides.pdf)
   * Sept. 05
+    * Handout: [Probability, matrices, and apply()]({{ site.baseurl }}/worksheets/sept_5th_handout.html)
 
 ***
 
