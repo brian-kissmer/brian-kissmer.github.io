@@ -36,7 +36,7 @@ layout: page
       * Lecture: [Probability, matrices, and the apply() function]({{ site.baseurl }}/slides/Sept 3 slides.pdf)
   * Sept. 05
     * Handout: [Probability, matrices, and apply()]({{ site.baseurl }}/worksheets/sept_5th_handout.html)
-    * Lecture: [Probabbility, matrices, and apply() function cont.]({{ site.baseurl }}/slides/Sept 5 slides.pdf)
+    * Lecture: [Probability, matrices, and apply() function cont.]({{ site.baseurl }}/slides/Sept 5 slides.pdf)
 
 ***
 
