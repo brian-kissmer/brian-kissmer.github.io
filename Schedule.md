@@ -47,10 +47,10 @@ layout: page
 
 **Week 3: Simulating Evolution using For Loops**
   * Sept. 10
-      * [Pre-Lab Quiz]
+      * [Pre-Lab Quiz](https://usu.instructure.com/courses/762928/quizzes/1275304)
       * Lecture: [Simulating evolution using for loops]({{ site.baseurl }}/slides/Sept 10 slides.pdf)
       * Handout: [For loops]({{ site.baseurl }}/worksheets/for_loops.html)
-      * Coding assignmetnt: []
+      * Coding assignment: []
   * Sept. 12
       * [Pre-Lab Quiz]
   * Week 3 Resources
