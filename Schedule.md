@@ -38,9 +38,22 @@ layout: page
     * Handout: [Probability, matrices, and apply()]({{ site.baseurl }}/worksheets/sept_5th_handout.html)
     * Lecture: [Probability, matrices, and apply() function cont.]({{ site.baseurl }}/slides/Sept 5 slides.pdf)
 
+  * Week 2 Resources
+    * Office Hours: 12-3pm on WEDNESDAY, LSB 127A (Come here for help with setting up your laptop if you need it).
+    * Improved description of PMF and CDF: [This will be useful for Thursday, hope this is a better explanation than my first one]({{ site.baseurl }}/worksheets/pmf_cdf.html)
+    * [Course laptop survey](https://forms.gle/putWYbETm48PYRgy9)
+
 ***
 
-* Week 2 Resources
-  * Office Hours: 12-3pm on WEDNESDAY, LSB 127A (Come here for help with setting up your laptop if you need it).
-  * Improved description of PMF and CDF: [This will be useful for Thursday, hope this is a better explanation than my first one]({{ site.baseurl }}/worksheets/pmf_cdf.html)
-  * [Course laptop survey](https://forms.gle/putWYbETm48PYRgy9)
+**Week 3: Simulating Evolution using For Loops**
+  * Sept. 10
+      * [Pre-Lab Quiz]
+      * Lecture: [Simulating evolution using for loops]({{ site.baseurl }}/slides/Sept 10 slides.pdf)
+      * Handout: [For loops]({{ site.baseurl }}/worksheets/for_loops.html)
+      * Coding assignmetnt: []
+  * Sept. 12
+      * [Pre-Lab Quiz]
+  * Week 3 Resources
+      * Office hours, Monday Sept. 9 12pm-3pm. LSB 127A  
+
+
