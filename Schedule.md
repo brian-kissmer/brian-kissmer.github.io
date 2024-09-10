@@ -50,7 +50,7 @@ layout: page
       * [Pre-Lab Quiz](https://usu.instructure.com/courses/762928/quizzes/1275304)
       * Lecture: [Simulating evolution using for loops]({{ site.baseurl }}/slides/Sept 10 slides.pdf)
       * Handout: [For loops]({{ site.baseurl }}/worksheets/for_loops.html)
-      * Coding assignment: [Programming Project 1 - Simulating Evolution](({{ site.baseurl }}/programming_projects/programming_project1.html))
+      * Coding assignment: [Programming Project 1 - Simulating Evolution](https://github.com/brian-kissmer/brian-kissmer.github.io/blob/main/programming_projects/programming_project1.html)
   * Sept. 12
       * [Pre-Lab Quiz]
   * Week 3 Resources
