@@ -53,6 +53,8 @@ layout: page
       * Coding assignment: [Programming Project 1 - Simulating Evolution]({{ site.baseurl }}/programming_projects/programming_project1.html)
   * Sept. 12
       * [Pre-Lab Quiz](https://usu.instructure.com/courses/762928/quizzes/1275580)
+      * Programming Project 1 [Canvas submission page](https://usu.instructure.com/courses/762928/assignments/4606184)
+      * Programming Project 1 [Rubric]({{ site.baseurl }}/rubrics/sim_evol_rubric.html)
   * Week 3 Resources
       * Office hours, Monday Sept. 9 12pm-3pm. LSB 127A  
 
