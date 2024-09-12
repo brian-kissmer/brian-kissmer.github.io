@@ -52,7 +52,7 @@ layout: page
       * Handout: [For loops]({{ site.baseurl }}/worksheets/for_loops.html)
       * Coding assignment: [Programming Project 1 - Simulating Evolution]({{ site.baseurl }}/programming_projects/programming_project1.html)
   * Sept. 12
-      * [Pre-Lab Quiz]
+      * [Pre-Lab Quiz](https://usu.instructure.com/courses/762928/quizzes/1275580)
   * Week 3 Resources
       * Office hours, Monday Sept. 9 12pm-3pm. LSB 127A  
 
