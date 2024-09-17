@@ -64,7 +64,7 @@ layout: page
   * Sept. 17
       * Lecture: [Conditionals, custom functions,and game theory]({{ site.baseurl }}/slides/Sept 17 slides.pdf)
       * Worksheet: [Conditional statements and functions]({{ site.baseurl }}/worksheets/cond_statements_functions.html)
-      * Handout: [Coding the Hawk-Dove game]()({{ site.baseurl }}/worksheets/hawk_dove.html)
+      * Handout: [Coding the Hawk-Dove game]({{ site.baseurl }}/worksheets/hawk_dove.html)
   * Week 4 Resources
       * Office hours, Monday Sept. 16 12pm-3pm. LSB 127A 
 
