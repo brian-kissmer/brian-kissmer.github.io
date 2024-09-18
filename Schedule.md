@@ -12,10 +12,7 @@ layout: page
 **Week 1: Introduction to Computational Biology**
 * Aug. 27
     * Lecture: [Introduction to Computational Biology]({{ site.baseurl }}/slides/Aug 27 slides.pdf)
-    * In-class discussion: [Prior knowledge of computational biology](https://usu.instructure.com/courses/762928/discussion_topics/3043775)
-      
-***   
-
+    * In-class discussion: [Prior knowledge of computational biology](https://usu.instructure.com/courses/762928/discussion_topics/3043775)  
 * Aug. 29
     * Lecture: [Introduction to R]({{ site.baseurl }}/slides/Aug 29 slides.pdf)
     * Handout:  [Intro to R, operators, variable assignment, and vectors]({{ site.baseurl }}/worksheets/Introduction_to_R.html) 
@@ -65,6 +62,13 @@ layout: page
       * Lecture: [Conditionals, custom functions,and game theory]({{ site.baseurl }}/slides/Sept 17 slides.pdf)
       * Worksheet: [Conditional statements and functions]({{ site.baseurl }}/worksheets/cond_statements_functions.html)
       * Handout: [Coding the Hawk-Dove game]({{ site.baseurl }}/worksheets/hawk_dove.html)
+  * Sept. 19
+      * [Pre-Lab Quiz](https://usu.instructure.com/courses/762928/quizzes/1276257)
+      * Lecture: [Effective coding strategies]({{ site.baseurl }}/slides/Sept 19 slides.pdf)
+      * Coding assignment: [Programming Project 2 - Game Theory]({{ site.baseurl }}/programming_projects/programming_project2.html)
+      * Programming Project 2 [Rubric]({{ site.baseurl }}/rubrics/game_theory_rubric.html)
+      * Programming Project 2 [Canvas Submission Page]
+  
   * Week 4 Resources
       * Office hours, Monday Sept. 16 12pm-3pm. LSB 127A 
 
