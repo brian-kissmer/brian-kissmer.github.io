@@ -70,6 +70,12 @@ layout: page
       * Programming Project 2 [Canvas Submission Page]
   
   * Week 4 Resources
-      * Office hours, Monday Sept. 16 12pm-3pm. LSB 127A 
+      * Office hours, Monday Sept. 16 12pm-3pm. LSB 127A
+   
+  ***
+
+  **Week 5: Tensors and lists**
+  * Week 5 Resources
+      * Office hours, Monday Sept. 23 12pm-3pm. LSB 127A
 
 
