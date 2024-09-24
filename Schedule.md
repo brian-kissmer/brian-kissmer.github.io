@@ -67,7 +67,7 @@ layout: page
       * Lecture: [Effective coding strategies]({{ site.baseurl }}/slides/Sept 19 slides.pdf)
       * Coding assignment: [Programming Project 2 - Game Theory]({{ site.baseurl }}/programming_projects/programming_project2.html)
       * Programming Project 2 [Rubric]({{ site.baseurl }}/rubrics/game_theory_rubric.html)
-      * Programming Project 2 [Canvas Submission Page]
+      * Programming Project 2 [Canvas Submission Page, due Sept. 26 at 1:30pm](https://usu.instructure.com/courses/762928/assignments/4610645)
   
   * Week 4 Resources
       * Office hours, Monday Sept. 16 12pm-3pm. LSB 127A
@@ -77,5 +77,6 @@ layout: page
   **Week 5: Tensors and lists**
   * Week 5 Resources
       * Office hours, Monday Sept. 23 12pm-3pm. LSB 127A
+      * [Coding Quiz 1, due Oct. 1st, 1:30pm](https://usu.instructure.com/courses/762928/quizzes/1276805)
 
 
