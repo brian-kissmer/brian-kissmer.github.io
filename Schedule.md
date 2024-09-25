@@ -78,8 +78,10 @@ layout: page
   * Sept. 26
   * Lecture: [Tensors and lists]({{ site.baseurl }}/slides/Sept 26 slides.pdf)
   * [Pre-Lab Quiz](https://usu.instructure.com/courses/762928/quizzes/1276878)
+    
   * Week 5 Resources
       * Office hours, Monday Sept. 23 12pm-3pm. LSB 127A
       * [Coding Quiz 1, due Oct. 1st, 1:30pm](https://usu.instructure.com/courses/762928/quizzes/1276805)
+      * Practice Quizziz [quiz](https://quizizz.com/admin/quiz/66f23a9b59d4e0b4fbf44d92?at=66f4886dc629c2784b1d5e84)
 
 
