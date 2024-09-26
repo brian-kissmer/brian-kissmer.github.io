@@ -75,9 +75,13 @@ layout: page
   ***
 
   **Week 5: Tensors and lists**
+  * Sept. 24
+      * Review day, no materials needed
+  
   * Sept. 26
-  * Lecture: [Tensors and lists]({{ site.baseurl }}/slides/Sept 26 slides.pdf)
-  * [Pre-Lab Quiz](https://usu.instructure.com/courses/762928/quizzes/1276878)
+    *  Lecture: [Tensors and lists]({{ site.baseurl }}/slides/Sept 26 slides.pdf)
+    *  [Pre-Lab Quiz](https://usu.instructure.com/courses/762928/quizzes/1276878)
+    *  Handout: [Tensors and lists]({{ site.baseurl }}/worksheets/tensors_and_lists.html)
     
   * Week 5 Resources
       * Office hours, Monday Sept. 23 12pm-3pm. LSB 127A
