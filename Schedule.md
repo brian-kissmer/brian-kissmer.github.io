@@ -18,8 +18,6 @@ layout: page
     * Handout:  [Intro to R, operators, variable assignment, and vectors]({{ site.baseurl }}/worksheets/Introduction_to_R.html) 
     * Lab: [Initial R exercises](Add_quizizz_link_before_class)
     * Laptop poll: [Click here](https://strawpoll.com/e7ZJaaklKg3)
-  
-*** 
 
 * Week 1 resources
   * Quizizz link: [Now you can replay it whenever you'd like!](https://quizizz.com/join?gc=75478828)
@@ -92,6 +90,7 @@ layout: page
 **Week 6: Individual-Based Simulations**
 * Oct. 1
     * Lecture: [Introduction to Individual-Based Simulations]({{ site.baseurl }}/slides/Oct 1 slides.pdf)
+    * [Pre-Lab Quiz](https://usu.instructure.com/courses/762928/quizzes/1277497)
 
 * Oct. 3
 
