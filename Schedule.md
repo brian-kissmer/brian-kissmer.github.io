@@ -96,4 +96,5 @@ layout: page
 
 * Week 6 Resources:
   * Office hours, Monday Oct. 1st 12pm-3pm. LSB 204
+  * [Coding Quiz 2, due Oct. 8th at 1:30PM](https://usu.instructure.com/courses/762928/quizzes/1277500)
 
