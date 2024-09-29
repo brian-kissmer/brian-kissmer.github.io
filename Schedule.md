@@ -88,4 +88,13 @@ layout: page
       * [Coding Quiz 1, due Oct. 1st, 1:30pm](https://usu.instructure.com/courses/762928/quizzes/1276805)
       * Practice Quizziz [quiz](https://quizizz.com/admin/quiz/66f23a9b59d4e0b4fbf44d92?at=66f4886dc629c2784b1d5e84)
 
+***
+**Week 6: Individual-Based Simulations**
+* Oct. 1
+    * Lecture: [Introduction to Individual-Based Simulations]({{ site.baseurl }}/slides/Oct 1 slides.pdf)
+
+* Oct. 3
+
+* Week 6 Resources:
+  * Office hours, Monday Oct. 1st 12pm-3pm. LSB 204
 
