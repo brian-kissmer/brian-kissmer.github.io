@@ -93,6 +93,7 @@ layout: page
     * [Pre-Lab Quiz](https://usu.instructure.com/courses/762928/quizzes/1277497)
 
 * Oct. 3
+    * Handout: [Plots]({{ site.baseurl }}/worksheets/plots.html)
 
 * Week 6 Resources:
   * Office hours, Monday Oct. 1st 12pm-3pm. LSB 204
