@@ -99,4 +99,5 @@ layout: page
   * Office hours, Monday Oct. 1st 12pm-3pm. LSB 204
   * [Coding Quiz 2, due Oct. 8th at 1:30PM](https://usu.instructure.com/courses/762928/quizzes/1277500)
   * Programming Project 3 - [Individual-Based Simulations]({{ site.baseurl }}/programming_projects/programming_project_3.html)
+  * [SeedDispersal.R]({{ site.baseurl }}/code/SeedDispersal.R)
 
