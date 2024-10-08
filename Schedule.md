@@ -101,3 +101,15 @@ layout: page
   * Programming Project 3 - [Individual-Based Simulations]({{ site.baseurl }}/programming_projects/programming_project_3.html)
   * [SeedDispersal.R]({{ site.baseurl }}/code/SeedDispersal.R)
 
+***
+**Week 7: Midterm Prep and Bootstrapping/Permutations**
+* Oct. 8
+    * Lecture: [Game Theory Results and Review]()
+* Oct. 10
+    * Lecture: [Permutations and Bootstrapping]()
+    * Handout: [Permutations and Bootstrapping]()
+ 
+* Week 7 Resources
+    * Office hours, Monday Oct. 7 12pm-2pm. LSB 127A
+    * [Coding Quiz 3, Due Oct. 15th at 1:30pm](https://usu.instructure.com/courses/762928/quizzes/1278354)
+
