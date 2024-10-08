@@ -104,7 +104,7 @@ layout: page
 ***
 **Week 7: Midterm Prep and Bootstrapping/Permutations**
 * Oct. 8
-    * Lecture: [Game Theory Results and Review]()
+    * Lecture: [Game Theory Results and Review]({{ site.baseurl }}/slides/Oct 8 slides.pdf)
 * Oct. 10
     * Lecture: [Permutations and Bootstrapping]()
     * Handout: [Permutations and Bootstrapping]()
