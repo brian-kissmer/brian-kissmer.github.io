@@ -67,7 +67,7 @@ Three types of graded assignments will be used to evaluate student performance i
 
 ### Coding and Pre-Lab Quizzes (10%)
 
-Short (3-5 questions) coding quizzes will be given once every few weeks to assess programming skills (7 total). You will take these quizzes via Canvas. Most weeks, the coding quiz will be available starting Monday and will close Friday at 11:59 pm. You will be able to take the quiz at any time during that time interval. You will be allowed to take each quiz a total of 3 times and only your highest score will be retained.
+Short (8-10 questions) coding quizzes will be given once every few weeks to assess programming skills (7 total). You will take these quizzes via Canvas. Most quizzes will open for about seven days. You will be able to take the quiz at any time during that time interval. 
 
 Pre-Lab quizzes will be due before every lecture. These are very simple, easy quizzes that will be designed to help you understand the main goals and methods for each class. They are due 30 minutes before the start of lecture with no make-ups. The lowest pre-lab quiz will be dropped.
 
