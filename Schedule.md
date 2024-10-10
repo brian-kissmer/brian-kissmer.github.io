@@ -106,8 +106,8 @@ layout: page
 * Oct. 8
     * Lecture: [Game Theory Results and Review]({{ site.baseurl }}/slides/Oct 8 slides.pdf)
 * Oct. 10
-    * Lecture: [Permutations and Bootstrapping]()
-    * Handout: [Permutations and Bootstrapping]()
+    * Lecture: [Permutations and Bootstrapping]({{ site.baseurl }}/slides/Oct 10 slides.pdf)
+    * Handout: [Permutations and Bootstrapping]({{ site.baseurl }}/worksheets/permutations_and_bootstrapping.html)
  
 * Week 7 Resources
     * Office hours, Monday Oct. 7 12pm-2pm. LSB 127A
