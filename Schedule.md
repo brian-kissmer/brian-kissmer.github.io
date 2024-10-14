@@ -112,4 +112,12 @@ layout: page
 * Week 7 Resources
     * Office hours, Monday Oct. 7 12pm-2pm. LSB 127A
     * [Coding Quiz 3, Due Oct. 15th at 1:30pm](https://usu.instructure.com/courses/762928/quizzes/1278354)
+ 
+***
+
+**Week 8: Midterm**
+* No class meetings this week
+* Week 8 Resources
+   * Office hours, Monday Oct. 14 12pm-3pm. LSB 127A
+   * [Midterm, due Friday 10/18 at 11:59PM](https://usu.instructure.com/courses/762928/quizzes/1278905)
 
