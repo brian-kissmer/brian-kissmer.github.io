@@ -121,3 +121,9 @@ layout: page
    * Office hours, Monday Oct. 14 12pm-3pm. LSB 127A
    * [Midterm, due Friday 10/18 at 11:59PM](https://usu.instructure.com/courses/762928/quizzes/1278905)
 
+***
+
+**Week 9: Numerical Optimization**
+* Back to meeting in person this week
+* Week 9 Resources
+   * Office hours, Monday Oct. 21 12pm-3pm. LSB 127A
