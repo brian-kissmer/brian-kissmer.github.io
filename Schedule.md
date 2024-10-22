@@ -125,5 +125,8 @@ layout: page
 
 **Week 9: Numerical Optimization**
 * Back to meeting in person this week
+* Oct. 22
+    * Lecture: [Updates and Permutation Practice]({{ site.baseurl }}/slides/Oct 22 slides.pdf)
+    * Handout: [Permutation-based genetic association test]({{ site.baseurl }}/worksheets/perm_genetic_assoc.html)
 * Week 9 Resources
    * Office hours, Monday Oct. 21 12pm-3pm. LSB 127A
