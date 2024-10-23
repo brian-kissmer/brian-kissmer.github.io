@@ -132,6 +132,6 @@ layout: page
     * [Pre-Lab Quiz](https://usu.instructure.com/courses/762928/quizzes/1280520)
     * Lecture: [Numerical Optimization]({{ site.baseurl }}/slides/Oct 24 slides.pdf)
     * Code: [GoldenSearch.R]({{ site.baseurl }}/code/GoldenSearch.R)
-    * Data: [CountData.txt]({{ site.baseurl }}/data/CountData.R)
+    * Data: [CountData.txt]({{ site.baseurl }}/data/CountData.txt)
 * Week 9 Resources
    * Office hours, Monday Oct. 21 12pm-3pm. LSB 127A
