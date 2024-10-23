@@ -128,5 +128,10 @@ layout: page
 * Oct. 22
     * Lecture: [Updates and Permutation Practice]({{ site.baseurl }}/slides/Oct 22 slides.pdf)
     * Handout: [Permutation-based genetic association test]({{ site.baseurl }}/worksheets/perm_genetic_assoc.html)
+* Oct. 24
+    * [Pre-Lab Quiz]()
+    * Lecture: [Numerical Optimization]({{ site.baseurl }}/slides/Oct 24 slides.pdf)
+    * Code: [GoldenSearch.R]({{ site.baseurl }}/code/SeedDispersal.R)
+    * Data: [CountData.txt]({{ site.baseurl }}/data/CountData.R)
 * Week 9 Resources
    * Office hours, Monday Oct. 21 12pm-3pm. LSB 127A
