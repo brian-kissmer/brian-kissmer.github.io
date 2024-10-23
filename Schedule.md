@@ -129,7 +129,7 @@ layout: page
     * Lecture: [Updates and Permutation Practice]({{ site.baseurl }}/slides/Oct 22 slides.pdf)
     * Handout: [Permutation-based genetic association test]({{ site.baseurl }}/worksheets/perm_genetic_assoc.html)
 * Oct. 24
-    * [Pre-Lab Quiz]()
+    * [Pre-Lab Quiz](https://usu.instructure.com/courses/762928/quizzes/1280520)
     * Lecture: [Numerical Optimization]({{ site.baseurl }}/slides/Oct 24 slides.pdf)
     * Code: [GoldenSearch.R]({{ site.baseurl }}/code/SeedDispersal.R)
     * Data: [CountData.txt]({{ site.baseurl }}/data/CountData.R)
