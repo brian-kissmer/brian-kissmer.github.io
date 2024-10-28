@@ -135,3 +135,10 @@ layout: page
     * Data: [CountData.txt]({{ site.baseurl }}/data/CountData.txt)
 * Week 9 Resources
    * Office hours, Monday Oct. 21 12pm-3pm. LSB 127A
+
+***
+
+**Week 10: Numerical Optimization cont.**
+* Week 10 Resources
+    Office hours, Room got scalped, shoot me an email if you have a question instead!
+  
