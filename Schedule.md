@@ -140,5 +140,5 @@ layout: page
 
 **Week 10: Numerical Optimization cont.**
 * Week 10 Resources
-    Office hours, Room got scalped, shoot me an email if you have a question instead!
+    * Office hours, Room got scalped, shoot me an email if you have a question instead!
   
