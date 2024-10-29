@@ -142,6 +142,7 @@ layout: page
 * Oct 29
     * Handout 1: [Reading data and data frames]({{ site.baseurl }}/worksheets/dataframes.html)
     * Handout 2: [While loops]({{ site.baseurl }}/worksheets/while_loops.html)
+    * Data: [CherryTrees.txt]({{ site.baseurl }}/data/CherryTrees.txt)
 * Week 10 Resources
     * Office hours, Room got scalped, shoot me an email if you have a question instead!
   
