@@ -139,6 +139,9 @@ layout: page
 ***
 
 **Week 10: Numerical Optimization cont.**
+* Oct 29
+    * Handout 1: [Reading data and data frames]({{ site.baseurl }}/worksheets/dataframes.html)
+    * Handout 2: [While loops]({{ site.baseurl }}/worksheets/while_loops.html)
 * Week 10 Resources
     * Office hours, Room got scalped, shoot me an email if you have a question instead!
   
