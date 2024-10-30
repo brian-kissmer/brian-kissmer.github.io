@@ -143,6 +143,10 @@ layout: page
     * Handout 1: [Reading data and data frames]({{ site.baseurl }}/worksheets/dataframes.html)
     * Handout 2: [While loops]({{ site.baseurl }}/worksheets/while_loops.html)
     * Data: [CherryTrees.txt]({{ site.baseurl }}/data/CherryTrees.txt)
+* Oct 31
+    * Programming Project 4 - [Computational statistics exercises]({{ site.baseurl }}/programming_projects/programming_project4.html)
+    * Programming Project 4 [Rubric]({{ site.baseurl }}/rubrics/pp4_rubric.html)
+    * [beetleBirths.txt]({{ site.baseurl }}/data/beetleBirths.txt)
 * Week 10 Resources
     * Office hours, Room got scalped, shoot me an email if you have a question instead!
   
