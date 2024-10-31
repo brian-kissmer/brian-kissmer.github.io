@@ -149,4 +149,5 @@ layout: page
     * [beetleBirths.txt]({{ site.baseurl }}/data/beetleBirths.txt)
 * Week 10 Resources
     * Office hours, Room got scalped, shoot me an email if you have a question instead!
+    * [Course survey](https://forms.gle/SAWM5ozEDwJ18Hbf8)
   
