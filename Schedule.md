@@ -150,4 +150,12 @@ layout: page
 * Week 10 Resources
     * Office hours, Room got scalped, shoot me an email if you have a question instead!
     * [Course survey](https://forms.gle/SAWM5ozEDwJ18Hbf8)
+ 
+  **Week 11: Linear models**
+  * Nov 5th
+      * Lecture: [Linear models]({{ site.baseurl }}/slides/Nov 5 slides.pdf)
+      * Handout: [Linear models in R]({{ site.baseurl }}/worksheets/linearmodels.html)
+  * Week 11 Resources
+    * Office hours, Monday Nov. 4th 12pm-3pm. LSB 127A
+    * [Course survey](https://forms.gle/SAWM5ozEDwJ18Hbf8)
   
