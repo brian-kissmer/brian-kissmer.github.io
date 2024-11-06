@@ -155,6 +155,9 @@ layout: page
   * Nov 5th
       * Lecture: [Linear models]({{ site.baseurl }}/slides/Nov 5 slides.pdf)
       * Handout: [Linear models in R]({{ site.baseurl }}/worksheets/linearmodels.html)
+  * Nov 7th
+      * Lecture: [Penalized regression for feature selection]({{ site.baseurl }}/slides/Nov 7 slides.pdf)
+      * Handout: [Packages and LASSO regression]({{ site.baseurl }}/worksheets/lasso.html)
   * Week 11 Resources
     * Office hours, Monday Nov. 4th 12pm-3pm. LSB 127A
     * [Course survey](https://forms.gle/SAWM5ozEDwJ18Hbf8)
