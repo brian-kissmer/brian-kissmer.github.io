@@ -150,6 +150,8 @@ layout: page
 * Week 10 Resources
     * Office hours, Room got scalped, shoot me an email if you have a question instead!
     * [Course survey](https://forms.gle/SAWM5ozEDwJ18Hbf8)
+
+***
  
   **Week 11: Linear models**
   * Nov 5th
@@ -161,4 +163,12 @@ layout: page
   * Week 11 Resources
     * Office hours, Monday Nov. 4th 12pm-3pm. LSB 127A
     * [Course survey](https://forms.gle/SAWM5ozEDwJ18Hbf8)
+   
+***
+**Week 12: Genome wide association mapping**
+* Nov 12th
+* Nov 14th
+* Week 12 Resources
+    * Office hours, Monday Nov. 11th 12pm-3pm. LSB 127A
+  
   
