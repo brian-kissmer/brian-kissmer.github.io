@@ -171,7 +171,7 @@ layout: page
     * [Programming Project 5, due Nov. 21 1:30PM]({{ site.baseurl }}/programming_projects/programming_project5.html)
     * Programming Project 5 [Rubric TBD]({{ site.baseurl }}/rubrics/pp5_rubric.html)
     * Programming Project 5 Data
-       * [Genotype data TBD]({{ site.baseurl }}/data/compbioX2.zip)
+       * [Genotype data]({{ site.baseurl }}/data/compbioX2.zip)
        * [Phenotype data]({{ site.baseurl }}/data/compbioY.txt)
 * Nov 14th
 * Week 12 Resources
