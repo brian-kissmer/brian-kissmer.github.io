@@ -167,6 +167,12 @@ layout: page
 ***
 **Week 12: Genome wide association mapping**
 * Nov 12th
+    * Lecture: [Genome-wide association mapping]({{ site.baseurl }}/slides/Nov 12 slides.pdf)
+    * [Programming Project 5, due Nov. 21 1:30PM]({{ site.baseurl }}/programming_projects/programming_project5.html)
+    * Programming Project 5 [Rubric TBD]({{ site.baseurl }}/rubrics/pp5_rubric.html)
+    * Programming Project 5 Data
+       * [Genotype data TBD]
+       * [Phenotype data TBD]
 * Nov 14th
 * Week 12 Resources
     * Office hours, Monday Nov. 11th 12pm-3pm. LSB 127A
