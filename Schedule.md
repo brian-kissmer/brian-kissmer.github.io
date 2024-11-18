@@ -178,5 +178,11 @@ layout: page
     * Office hours, Monday Nov. 11th 12pm-3pm. LSB 127A
     * Programming Project 2 working functions: [working_PP2_functions2.R]({{ site.baseurl }}/code/working_PP2_functions2.R)
     * Code to run the above functions: [RunPP2Contest.R]({{ site.baseurl }}/code/RunPP2Contest.R)
+
+*** 
+**Week 13: Introduction to bioinformatics**
+* Week 13 Resources
+    * Office hours, Monday Nov. 18th 12pm-3pm. LSB 127A
+
   
   
