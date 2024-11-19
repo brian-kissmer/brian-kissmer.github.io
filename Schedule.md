@@ -181,6 +181,8 @@ layout: page
 
 *** 
 **Week 13: Introduction to bioinformatics**
+* Nov 19th
+  * Lecture: [Introduction to bioinformatics: working with strings]({{ site.baseurl }}/slides/Nov 19 slides.pdf)
 * Week 13 Resources
     * Office hours, Monday Nov. 18th 12pm-3pm. LSB 127A
 
