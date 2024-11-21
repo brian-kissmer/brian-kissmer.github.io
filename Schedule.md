@@ -185,6 +185,7 @@ layout: page
   * Lecture: [Introduction to bioinformatics: working with strings]({{ site.baseurl }}/slides/Nov 19 slides.pdf)
 * Nov 21st
   * Handout: [Strings and string matching]({{ site.baseurl }}/worksheets/strings.html)
+  * [RegEx cheat sheet](https://github.com/rstudio/cheatsheets/blob/main/regex.pdf)
 * Week 13 Resources
     * Office hours, Monday Nov. 18th 12pm-3pm. LSB 127A
 
