@@ -188,6 +188,12 @@ layout: page
   * [RegEx cheat sheet](https://github.com/rstudio/cheatsheets/blob/main/regex.pdf)
 * Week 13 Resources
     * Office hours, Monday Nov. 18th 12pm-3pm. LSB 127A
-
+***
+**Week 14: Random Forests**
+*Week 14 Resources
+  * We aren't meeting, but you'll have a small assignment for the break
+  * [Assignment Canvas page](https://usu.instructure.com/courses/762928/quizzes/1284611)
+  * [Blog post](https://victorzhou.com/blog/intro-to-random-forests/)
+  * [StatQuest video](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&t=332s)
   
   
