@@ -188,7 +188,7 @@ layout: page
   * [RegEx cheat sheet](https://github.com/rstudio/cheatsheets/blob/main/regex.pdf)
 * Week 13 Resources
     * Office hours, Monday Nov. 18th 12pm-3pm. LSB 127A
-    * 
+      
 ***
 
 **Week 14: Random Forests**
@@ -197,5 +197,10 @@ layout: page
   * [Assignment Canvas page](https://usu.instructure.com/courses/762928/quizzes/1284611)
   * [Blog post](https://victorzhou.com/blog/intro-to-random-forests/)
   * [StatQuest video](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&t=332s)
+
+**Week 15: Neural Networks**
+* Dec 3rd
+  * Lecture: [Neural networks, CNNs, and AlphaFold]({{ site.baseurl }}/slides/Dec 3 slides.pdf)
+  * [Programming Project 6, due Dec. 10 11:59PM]({{ site.baseurl }}/programming_projects/programming_project6.html)
   
   
